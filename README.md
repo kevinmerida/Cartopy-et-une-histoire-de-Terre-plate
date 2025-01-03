@@ -78,6 +78,8 @@ Voici le [notebook](cartopy.ipynb) permettant de suivre et d'exécuter les étap
 
 ![image](https://github.com/user-attachments/assets/2209e72e-8253-41b5-95c5-a6fe83fb7afb)
 
+### Les cartes "jour et nuit" de Cartopy
+
 ![image](https://github.com/user-attachments/assets/05129a65-24c2-4803-8ffa-0bb29313a36e)
 
 ![image](https://github.com/user-attachments/assets/1dfeb5e6-e0a8-4b24-988e-42ccb2ceca2f)
