@@ -62,4 +62,6 @@ mais ce n'est pas gênant pour la suite.
 On peut se passer de l'image fournie par timeanddate
 ```
 
+## Le notebook
 
+Voici le [notebook](cartopy.ipynb) permettant de suivre et d'exécuter les étapes décrites.
