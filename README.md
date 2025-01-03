@@ -68,7 +68,11 @@ Voici le [notebook](cartopy.ipynb) permettant de suivre et d'exécuter les étap
 
 ## Quelques illustrations obtenues avec l'exécution du notebook
 
+### L'image "Day and Night World Map" sur le site timeanddate.com
+
 ![image](https://github.com/user-attachments/assets/57bb8c34-b520-4dd6-85c5-f8e606e403ce)
+
+### Exploitation de l'image avec Cartopy
 
 ![image](https://github.com/user-attachments/assets/5dee885b-40c5-4f23-b69b-484647c5bc04)
 
