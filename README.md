@@ -72,7 +72,7 @@ Voici le [notebook](cartopy.ipynb) permettant de suivre et d'exécuter les étap
 
 ![image](https://github.com/user-attachments/assets/57bb8c34-b520-4dd6-85c5-f8e606e403ce)
 
-### Exploitation de l'image avec Cartopy
+### Exploitation de l'image "Day and Night World Map" avec Cartopy
 
 ![image](https://github.com/user-attachments/assets/5dee885b-40c5-4f23-b69b-484647c5bc04)
 
