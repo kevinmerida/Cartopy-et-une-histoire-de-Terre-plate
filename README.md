@@ -66,7 +66,7 @@ On peut se passer de l'image fournie par timeanddate
 
 Voici le [notebook](cartopy.ipynb) permettant de suivre et d'exécuter les étapes décrites.
 
-La version de ce notebook sur Google Colab permet de tester diectement les programmes :
+La version de ce notebook sur Google Colab permet de tester directement les programmes :
 
 https://colab.research.google.com/drive/1bSFtpYrlBjbyq0u2GEsG7h1tRZSXP_1I?usp=drive_link
 
