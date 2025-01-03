@@ -65,3 +65,20 @@ On peut se passer de l'image fournie par timeanddate
 ## Le notebook
 
 Voici le [notebook](cartopy.ipynb) permettant de suivre et d'exécuter les étapes décrites.
+
+## Quelques illustrations obtenues avec l'exécution du notebook
+
+![image](https://github.com/user-attachments/assets/57bb8c34-b520-4dd6-85c5-f8e606e403ce)
+
+![image](https://github.com/user-attachments/assets/5dee885b-40c5-4f23-b69b-484647c5bc04)
+
+![image](https://github.com/user-attachments/assets/2209e72e-8253-41b5-95c5-a6fe83fb7afb)
+
+![image](https://github.com/user-attachments/assets/05129a65-24c2-4803-8ffa-0bb29313a36e)
+
+![image](https://github.com/user-attachments/assets/1dfeb5e6-e0a8-4b24-988e-42ccb2ceca2f)
+
+
+
+
+
