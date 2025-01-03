@@ -80,7 +80,7 @@ https://colab.research.google.com/drive/1bSFtpYrlBjbyq0u2GEsG7h1tRZSXP_1I?usp=dr
 
 ![image](https://github.com/user-attachments/assets/5dee885b-40c5-4f23-b69b-484647c5bc04)
 
-![image](https://github.com/user-attachments/assets/2209e72e-8253-41b5-95c5-a6fe83fb7afb)
+![image](https://github.com/user-attachments/assets/29d4cae0-43a3-40e1-be01-16f5bde0d2c5)
 
 ### Les cartes "jour et nuit" de Cartopy
 
